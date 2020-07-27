@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\dtone\OneDrive\Desktop\Programming_Practice\Github_Local\Practice\Practice\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
